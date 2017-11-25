@@ -9,7 +9,7 @@ import Loading from 'react-loading'
 import { fetchRecipes } from '../../utils/api'
 import FoodList from '../FoodList/FoodList'
 import ShoppingList from '../ShoppingList/ShoppingList'
-
+import './App.css'
 
 
 class App extends Component {
